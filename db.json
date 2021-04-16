@@ -24,6 +24,11 @@
       "dogName": "Byron",
       "dogBreed": "Poodle",
       "id": 5
+    },
+    {
+      "dogName": "asd",
+      "dogBreed": "asd",
+      "id": 6
     }
   ],
   "cats": [
@@ -38,7 +43,248 @@
       "id": 2
     }
   ],
-  "users": [],
+  "users": [
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 1
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 2
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 3
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 4
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 5
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 6
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 7
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 8
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 9
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 10
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 11
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 12
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 13
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 14
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 15
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 16
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 17
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 18
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 19
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 20
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 21
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 22
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 23
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 24
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 25
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 26
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 27
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 28
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 29
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 30
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 31
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 32
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 33
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 34
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 35
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 36
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 37
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 38
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 39
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 40
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 41
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 42
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 43
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 44
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 45
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 46
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 47
+    },
+    {
+      "name": "etamar",
+      "email": "gadshgdfv",
+      "id": 48
+    }
+  ],
   "robots": [
     {
       "robotName": "C8-09S100K",
