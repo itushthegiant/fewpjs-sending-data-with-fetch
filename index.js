@@ -12,18 +12,15 @@ function submitData(name, email) {
         },
         body: JSON.stringify(formData)
       };
-    fetch('http://localhost:3000/users', configurationObject)
+     return fetch('http://localhost:3000/users', configurationObject)
     .then(resp => resp.json())
     .then(data => {
-        let id = data["id"]
-        const body = document.querySelector('body')
-        body.innerHTML = id;
+      document.body.innerHTML = data["id"]
     })
     
     .catch(function(error) {
       alert('Unauthorized Access');
       console.log(error.message);
+      document.body.innerHTML = error.message;
     }); 
 }
- submitData("etamar", "gadshgdfv")
-
